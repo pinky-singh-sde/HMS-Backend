@@ -15,7 +15,7 @@ app.use(cors(
     {
     origin: [
       "http://localhost:5173",
-      "https://hms-frontend-ebon.vercel.app/",
+      "https://hms-frontend-ebon.vercel.app",
     ],
     credentials: true
   }
